@@ -20,8 +20,6 @@ orangehrm\_automation/
 
 │   ├── config.yaml              # URLs, credentials
 
-│   └── test\_data.xlsx           # Data for data-driven tests
-
 │
 
 ├── pages/                       # Page Object Model classes
